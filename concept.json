@@ -1,0 +1,11 @@
+{
+  "slug": "agent-prompt-vault",
+  "name": "Agent Prompt Vault",
+  "kind": "agent",
+  "description": "Seal versioned agent instructions and prompt provenance into a compact manifest.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
