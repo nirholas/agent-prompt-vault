@@ -8,7 +8,7 @@ Seal versioned agent instructions and prompt provenance into a compact manifest.
 
 - Source: https://github.com/nirholas/agent-prompt-vault
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
